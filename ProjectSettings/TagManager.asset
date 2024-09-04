@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Archer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 2126739197
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Units
+    uniqueID: 3572317053
+    locked: 0
+  - name: Cursor
+    uniqueID: 817905203
+    locked: 0
+  - name: Sky
+    uniqueID: 3125561311
+    locked: 0
